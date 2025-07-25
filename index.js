@@ -1,9 +1,9 @@
-let images = ["Images/dice-01.svg",
-    "Images/dice-02.svg",
-    "Images/dice-03.svg",
-    "Images/dice-04.svg",
-    "Images/dice-05.svg",
-    "Images/dice-06.svg",
+let images = ["dice-01.svg",
+    "dice-02.svg",
+    "dice-03.svg",
+    "dice-04.svg",
+    "dice-05.svg",
+    "dice-06.svg",
 ]
 
 let dice = document.querySelectorAll("img");
